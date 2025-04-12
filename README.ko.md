@@ -18,6 +18,7 @@ dotnet-maui-reactor -f net9.0-android
 - iOS
 ```bash
 dotnet-maui-reactor -f net9.0-ios
+```
 - Windows
 ```bash
 dotnet-maui-reactor -f windows10.0.19041.0
