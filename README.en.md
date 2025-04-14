@@ -26,7 +26,7 @@ dotnet-maui-reactor -f net9.0-ios
 - Windows
 
 ```bash
-dotnet-maui-reactor -f net9.0-windows10.0.19041.0
+dotnet-maui-reactor -f windows10.0.19041.0
 ```
 🔸 **[Full Mode]**
 - Android
@@ -40,6 +40,6 @@ dotnet-maui-reactor -f net9.0-ios --mode Full
 ```
 - Windows
 ```bash
-dotnet-maui-reactor -f net9.0-windows10.0.19041.0 --mode Full
+dotnet-maui-reactor -f windows10.0.19041.0 --mode Full
 ```
 
